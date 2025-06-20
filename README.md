@@ -3,6 +3,17 @@
 Welcome to my personal repository where I document my learning journey of **Data Structures and Algorithms (DSA)** using **C++**. This repo includes clean code implementations, brief theory notes, and practice problems, following a structured approach to mastering core computer science fundamentals.
 
 ---
+## 📂 Table of Contents
+
+1. [Recursion](./Recursion)
+2. [Arrays](./Arrays)
+3. [Linked Lists](./LinkedLists)
+4. [Stacks](./Stacks)
+5. [Queues](./Queues)
+6. [Trees](./Trees)
+7. [Graphs](./Graphs)
+8. [Sorting](./Sorting)
+9. [Dynamic Programming](./DynamicProgramming)
 
 ## 🚀 Topics Covered
 
