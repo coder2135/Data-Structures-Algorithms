@@ -15,6 +15,8 @@ Welcome to my personal repository where I document my learning journey of **Data
 8. [Sorting](./Sorting)
 9. [Dynamic Programming](./DynamicProgramming)
 
+<hr/> 
+
 ## 🚀 Topics Covered
 
 * Recursion
