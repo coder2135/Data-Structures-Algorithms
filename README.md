@@ -1,6 +1,10 @@
-# Data Structures & Algorithms – C++
+## 💻 Data Structures & Algorithms – C++
 
-Welcome to my personal repository where I document my learning journey of **Data Structures and Algorithms (DSA)** using **C++**. This repo includes clean code implementations, brief theory notes, and practice problems, following a structured approach to mastering core computer science fundamentals.
+Welcome to my DSA Journey in C++!
+
+This repository is a curated collection of code, theory, and problem-solving patterns built with a founder's mindset — not just to crack interviews, but to deeply understand the fundamentals of computer science.
+
+Whether you're a beginner trying to grasp recursion or someone trying to master dynamic programming, this repo is designed to document real growth through clean code, crisp notes, and strategic problem-solving.
 
 ---
 ## 📂 Table of Contents
